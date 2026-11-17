@@ -15,7 +15,7 @@ Interfaz simple, CLI primero, para leer datos de bases SQL (PostgreSQL y MySQL/M
 
 - No muestra ni consulta datos.
 - No guarda historial de conexiones.
-- **No guarda contraseñas** en ningún lado.
+
 
 ## Requisitos
 
